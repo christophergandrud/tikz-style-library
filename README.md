@@ -1,2 +1,3 @@
-# tikz-style-library
-Personal library of tikz style files
+# Tikz Style Library
+
+> Personal library of tikz style files
